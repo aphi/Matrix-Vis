@@ -1,5 +1,3 @@
 MatrixVis Work Outline
 
-.LP file parser to generate Python objects representing the problem (aMatrix, rowOrder, colOrder, objective, pName, colRange)
-
 Use Django or similar as a HTML5 content generator to build matrix image (comprised of "divs") as per written spec
